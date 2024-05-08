@@ -1,0 +1,10 @@
+flet
+flet_navigator
+flet_multi_page
+openpyxl
+pandas
+openpyxl_image_loader
+pytest-shutil
+pyinstaller
+python-barcode
+qrcode
