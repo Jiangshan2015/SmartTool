@@ -8,3 +8,5 @@ pytest-shutil
 pyinstaller
 python-barcode
 qrcode
+notify-py
+apscheduler
